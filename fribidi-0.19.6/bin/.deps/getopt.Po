@@ -1,0 +1,80 @@
+getopt.o: getopt.c ../config.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/stdio.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/sys/cdefs.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/sys/cdefs_elf.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/android/api-level.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/sys/types.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/lib/gcc/arm-linux-androideabi/4.9/include/stddef.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/lib/gcc/arm-linux-androideabi/4.9/include/stdint.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/stdint.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/sys/_types.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/machine/_types.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/sys/_wchar_limits.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/linux/posix_types.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/linux/stddef.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/linux/compiler.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/asm/posix_types.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/asm/types.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/linux/types.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/machine/kernel.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/sys/sysmacros.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/lib/gcc/arm-linux-androideabi/4.9/include/stdarg.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/string.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/malloc.h \
+ gettext.h getopt.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/ctype.h \
+ getopt_int.h
+
+../config.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/stdio.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/sys/cdefs.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/sys/cdefs_elf.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/android/api-level.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/sys/types.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/lib/gcc/arm-linux-androideabi/4.9/include/stddef.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/lib/gcc/arm-linux-androideabi/4.9/include/stdint.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/stdint.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/sys/_types.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/machine/_types.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/sys/_wchar_limits.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/linux/posix_types.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/linux/stddef.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/linux/compiler.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/asm/posix_types.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/asm/types.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/linux/types.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/machine/kernel.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/sys/sysmacros.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/lib/gcc/arm-linux-androideabi/4.9/include/stdarg.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/string.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/malloc.h:
+
+gettext.h:
+
+getopt.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/ctype.h:
+
+getopt_int.h:

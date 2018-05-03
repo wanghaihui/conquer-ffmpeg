@@ -1,0 +1,18 @@
+prefix=/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+sysconfdir=${prefix}/etc
+localstatedir=${prefix}/var
+PACKAGE=fontconfig
+confdir=${sysconfdir}/fonts
+cachedir=${localstatedir}/cache/${PACKAGE}
+
+Name: Fontconfig
+Description: Font configuration and customization library
+Version: 2.11.94
+Requires:  freetype2
+Requires.private:  expat
+Libs: -L${libdir} -lfontconfig
+Libs.private: -L/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/lib -lexpat -L/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/lib -lfreetype  
+Cflags: -I${includedir} -I/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/include -I/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/include/freetype2  

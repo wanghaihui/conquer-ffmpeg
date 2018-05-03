@@ -1,0 +1,124 @@
+fribidi-run.lo: fribidi-run.c common.h ../config.h fribidi-common.h \
+ fribidi-config.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/stdlib.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/sys/cdefs.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/sys/cdefs_elf.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/android/api-level.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/lib/gcc/arm-linux-androideabi/4.9/include/stddef.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/string.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/malloc.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/alloca.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/strings.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/sys/types.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/lib/gcc/arm-linux-androideabi/4.9/include/stdint.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/stdint.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/sys/_types.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/machine/_types.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/sys/_wchar_limits.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/linux/posix_types.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/linux/stddef.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/linux/compiler.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/asm/posix_types.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/asm/types.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/linux/types.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/machine/kernel.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/sys/sysmacros.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/memory.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/asm/page.h \
+ debug.h fribidi-types.h fribidi-common.h fribidi-begindecls.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/inttypes.h \
+ fribidi-enddecls.h fribidi-begindecls.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/stdio.h \
+ /Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/lib/gcc/arm-linux-androideabi/4.9/include/stdarg.h \
+ fribidi-enddecls.h fribidi-bidi-types.h fribidi-types.h \
+ fribidi-bidi-types-list.h run.h mem.h bidi-types.h
+
+common.h:
+
+../config.h:
+
+fribidi-common.h:
+
+fribidi-config.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/stdlib.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/sys/cdefs.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/sys/cdefs_elf.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/android/api-level.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/lib/gcc/arm-linux-androideabi/4.9/include/stddef.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/string.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/malloc.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/alloca.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/strings.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/sys/types.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/lib/gcc/arm-linux-androideabi/4.9/include/stdint.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/stdint.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/sys/_types.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/machine/_types.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/sys/_wchar_limits.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/linux/posix_types.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/linux/stddef.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/linux/compiler.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/asm/posix_types.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/asm/types.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/linux/types.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/machine/kernel.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/sys/sysmacros.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/memory.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/asm/page.h:
+
+debug.h:
+
+fribidi-types.h:
+
+fribidi-common.h:
+
+fribidi-begindecls.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/inttypes.h:
+
+fribidi-enddecls.h:
+
+fribidi-begindecls.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/sysroot/usr/include/stdio.h:
+
+/Users/meijian/Desktop/ConquerAndroidFFmpeg/toolchain-android/lib/gcc/arm-linux-androideabi/4.9/include/stdarg.h:
+
+fribidi-enddecls.h:
+
+fribidi-bidi-types.h:
+
+fribidi-types.h:
+
+fribidi-bidi-types-list.h:
+
+run.h:
+
+mem.h:
+
+bidi-types.h:
